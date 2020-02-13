@@ -90,10 +90,6 @@ class TJViewController: UITableViewController {
 }
 ```
 
-## Author
-
-tanjo, tanjo@users.noreply.github.com
-
 ## License
 
 TJTableView is available under the MIT license. See the LICENSE file for more info.
